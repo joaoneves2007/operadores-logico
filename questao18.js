@@ -1,5 +1,7 @@
 /*
 O que retorna a expressão (true || false) && !(false && true)?
 
-(true || false) && !(false && true) é true.
+(true || false) && !(false && true)
+
+true.
 */
